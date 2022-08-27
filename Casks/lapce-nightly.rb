@@ -13,7 +13,7 @@ cask "lapce-nightly" do
   uninstall quit: "io.lapce"
 
   zap trash: [
-    "~/Library/Application Support/dev.lapce.Lapce-nightly",
+    "~/Library/Application Support/dev.lapce.Lapce-Nightly",
     "~/Library/Saved Application State/io.lapce.savedState",
   ]
 end
