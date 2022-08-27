@@ -6,7 +6,7 @@
 brew tap lapce/homebrew-tap
 ```
 
-===
+---
 
 ## Installing pre-built Lapce (Cask)
 
@@ -21,6 +21,8 @@ brew install --cask lapce
 ```shell
 brew install lapce-nightly
 ```
+
+---
 
 ## Building Lapce from source (Formula)
 
