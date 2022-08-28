@@ -3,7 +3,7 @@
 ## *Tapping* repository
 
 ```shell
-brew tap lapce/homebrew-tap
+brew tap lapce/lapce
 ```
 
 ---
