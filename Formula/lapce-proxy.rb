@@ -1,8 +1,8 @@
 class LapceProxy < Formula
   desc "Proxy for Lapce"
   homepage "https://lapce.dev"
-  url "https://github.com/lapce/lapce/archive/v0.1.3.tar.gz"
-  sha256 "381f95be6ed43396ecff5da5ce7d2bc75969ba1f67e251410d72753e1059d74d"
+  url "https://github.com/lapce/lapce/archive/v0.2.0.tar.gz"
+  sha256 "163102244c6586530bc0f0736219d38a44797b2a6d97ad37d5f6553ffc8f1a04"
   license "Apache-2.0"
   head "https://github.com/lapce/lapce.git", branch: "master"
 
