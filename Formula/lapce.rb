@@ -1,8 +1,8 @@
 class Lapce < Formula
   desc "Lightning-fast and Powerful Code Editor written in Rust"
   homepage "https://lapce.dev"
-  url "https://github.com/lapce/lapce/archive/v0.2.1.tar.gz"
-  sha256 "af73cf04318a70d02d3aaed21b4e601648f9d777f30f0af4266354782b888a28"
+  url "https://github.com/lapce/lapce/archive/v0.2.2.tar.gz"
+  sha256 "43afa4c83333d34811c8504fc6356f333a85b086ef3f35990c62338a9983a8a4"
   license "Apache-2.0"
   head "https://github.com/lapce/lapce.git", branch: "master"
 
