@@ -9,6 +9,7 @@ cask "lapce-nightly" do
   homepage "https://lapce.dev/"
 
   app "Lapce.app"
+  binary "#{appdir}/Lapce.app/Contents/MacOS/lapce"
 
   uninstall quit: "io.lapce"
 
